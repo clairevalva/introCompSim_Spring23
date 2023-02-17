@@ -3,7 +3,8 @@
 
 # OSX / *nix default autosave extension
 *.m~
-*nitsetting.m
+initsetting.m
+scratch.m
 
 # Compiled MEX binaries (all platforms)
 *.mex*
